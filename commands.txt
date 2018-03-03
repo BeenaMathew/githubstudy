@@ -1,0 +1,3 @@
+git add . // adding
+git status 
+git coomit -m"msg"

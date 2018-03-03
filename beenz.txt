@@ -11,3 +11,6 @@ sdfgksd
 hsdkf
 eyruwe\
 jkfhksfkj
+forloop(i=0;i<n;i++
+{
+}
